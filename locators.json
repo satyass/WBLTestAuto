@@ -3,5 +3,9 @@
   "header.social": "ul.social-icons",
   "header.social.links": "ul.social-icons li a",
   "home.slider.items": "#promo-slider ul li",
-  "header.home": ".navbar-nav li:first-child"
+  "header.home": ".navbar-nav li:first-child",
+  "header.schedule.page":"a[href='schedule.php']",
+  "home.schedule.items1":"h3[class='has-divider text-highlight']:first-child",
+  "home.schedule.items2":"h3[class='has-divider text-highlight']"
+   
 }
